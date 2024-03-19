@@ -2,7 +2,7 @@
 
 _(This repository is under construction.)_
 
-## Hardware
+## Summary
 
 We provide a set of designs for ambisonic microphone arrays across a range of radii and orders. All designs will be equatorial microphone arrays (EMAs) for the foreseeable future.
 
@@ -10,18 +10,24 @@ Here is an example:
 
 ![ema15](R_60mm/ema_N7_L15_R60mm.jpg "ema15")
 
+Demo videos of (other) EMAs can be found [here](https://youtu.be/OPWCXFbOFxU) and [here](https://youtu.be/5jAu47l2WaY).
+
 The EMA concept was proposed in
 
     J. Ahrens, H. Helmholz, D. L. Alon, S. V. Amengual Garí, “Spherical 
     Harmonic Decomposition of a Sound Field Based on Observations Along 
     the Equator of a Rigid Spherical Scatterer” in J. Acoust. Soc. Am. 
-    150(2), 2021, ([pdf](http://www.soundfieldsynthesis.org/wp-content/uploads/pubs/Ahrens_etal_JASA2021.pdf)),
+    150(2), 2021.
 
-and further details can be found in 
+Find the pdf [here](http://www.soundfieldsynthesis.org/wp-content/uploads/pubs/Ahrens_etal_JASA2021.pdf). Further details can be found in 
 
     J. Ahrens, “Ambisonic Encoding of Signals From Equatorial Microphone 
     Arrays,” Technical note v. 1, Chalmers University of Technology, 
-    Aug. 2022, ([pdf](https://arxiv.org/pdf/2211.00584.pdf)).
+    Aug. 2022.
+
+Find the pdf [here](https://arxiv.org/pdf/2211.00584.pdf).
+
+## Hardware
 
 What we provide are 3D models of the microphone holders that you need to 3D print and combine with a spherical baffle. We use wooden spheres that we have from [here](https://www.holzlaedle.com/Heimwerken-und-Basteln/Kugel-und-Rundstab/Holzkugeln/). So far, we provide mic holders for spheres with 40 mm and with 60 mm radius. Each microphone holder is composed of two parts that are held together by screwing the baffle onto a microphone stand. We cut a suitable thread directly into the wood. If you do not have this possibility, you may want to consider gluing an adapter like these ones flush into the sphere:
 
