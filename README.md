@@ -43,7 +43,13 @@ Note that you can find a similar 4th-order EMA for the Insta360 Pro camera [here
 
 The signal processing for encoding the microphone signals into ambisonics and subsequent binaural rendering is currently only available in MATLAB here: https://github.com/AppliedAcousticsChalmers/ambisonic-encoding
 
-It may be useful to calibrate the sensitivity of the microphone. We have observed differences of &plusmn;2 dB, which can make an audible difference. The simple solution is talking into the microphone array from above, recording all channels, and measuring the RMS of each channel.
+It may be useful to calibrate the sensitivity of the microphones. We have observed differences of &plusmn;2 dB, which can make an audible difference. The simple solution is talking into the microphone array from above, recording all channels, and measuring the RMS of each channel.
+
+## Acknowledgments
+
+This work received funding under the Erasmus+ programme of the European Commission und grant 2022-1-PL01-KA220-VET-000085305.
+
+![eu](misc/eu_flag.png "eu")
 
 ## License
 The content of this repository is licensed under the terms of the MIT license. Please consult the file [LICENSE](LICENSE) for more information about this license.
